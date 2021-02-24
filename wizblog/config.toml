@@ -1,0 +1,4 @@
+baseURL = "10.12.12.250"
+languageCode = "en-us"
+title = "A Technical Tale of Trials and Tribulations"
+theme = "hugo.386"
